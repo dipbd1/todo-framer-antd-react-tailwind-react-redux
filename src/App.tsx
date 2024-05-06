@@ -70,7 +70,7 @@ const App: React.FC = () => {
             <Row justify={'center'} align={'middle'} style={{ height: "100%" }}>
               <Col span={8}>
                 <Row justify="start" align="middle" style={{ height: "100%" }} className='ms-4'>
-                  <Title style={{ margin: "0px" }} level={3}>Todo by XaliT</Title>
+                  <Title style={{ margin: "0px" }} level={3}>Todo by Dip</Title>
                 </Row>
               </Col>
               <Col span={8} offset={8}>
